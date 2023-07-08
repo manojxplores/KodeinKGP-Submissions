@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    font-size: x-large;
+}
+
+button{
+    color: black;
+    background-image: radial-gradient( circle 673px at 10% 20%,  rgba(255,220,163,1) 0%, rgba(129,255,239,1) 48.5%, rgba(139,172,251,1) 97.8% );
+    border-radius: 10px;
+    border:none;
+    padding: 10px;
+
+
+}
